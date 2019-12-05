@@ -22,8 +22,8 @@ def monopoly_with_third_tier
       :two_peices_owned => 50,
       :three_peices_owned => 100,
       :four_peices_owned => 200
-      }
-      :names => {
+      },
+    :names => {
       }
     }
   }
