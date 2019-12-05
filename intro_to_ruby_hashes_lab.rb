@@ -24,6 +24,8 @@ def monopoly_with_third_tier
       :four_peices_owned => 200
       },
     :names => {
+      :reading_railroad => {},
+      
       }
     }
   }
