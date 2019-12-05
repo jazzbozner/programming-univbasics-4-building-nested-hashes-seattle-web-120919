@@ -23,6 +23,8 @@ def monopoly_with_third_tier
       :three_peices_owned => 100,
       :four_peices_owned => 200
       }
+      :names => {
+      }
     }
   }
   # When you start writing the implementation for this method, copy the Hash
